@@ -11,3 +11,7 @@ th {
 .btn {
 	width: 300px;
 }
+
+form * {
+	outline: none;
+}
