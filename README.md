@@ -1,2 +1,2 @@
 # kanamobi-frontend-test
-Teste de Frontend usando Angular, NodeJs, ExpressJS e Gulp.
+Teste de Frontend usando Angular.
