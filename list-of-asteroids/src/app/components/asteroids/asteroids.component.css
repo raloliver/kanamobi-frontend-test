@@ -1,0 +1,13 @@
+th {
+	text-align: center;
+	padding: 5px 10px;
+}
+
+.input-group-addon a {
+	color: #000;
+	text-decoration: none;
+}
+
+.btn {
+	width: 300px;
+}
